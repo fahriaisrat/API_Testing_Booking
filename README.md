@@ -20,5 +20,11 @@ Tasks Done
 
 -Newman HTML & HTML Extra Report.
 
-#Summary
+# Summary
+The Summary of all the tasks done for the restful-booker websites are given below with a table.
+![summary](Image/summary.jpg)
+
+# Newman Report
+The Report of all the tasks done for the restful-booker websites are given below with a table.
+![Newman Report](Image/newmanreport.jpg)
 
